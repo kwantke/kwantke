@@ -3,7 +3,7 @@
 #### I'm Kwangkyu Ko 🌱
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwantke&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)
+//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwantke&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)
 
 
 
