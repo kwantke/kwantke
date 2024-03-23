@@ -3,7 +3,7 @@
 #### I'm Kwangkyu Ko 🌱
 
 
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwantke&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)
+
 
 
 
@@ -20,7 +20,7 @@
 
 
 <!--
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwantke&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/React-29F1FB?style=flat&logo=React&logoColor=white&textColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
