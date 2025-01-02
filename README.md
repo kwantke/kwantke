@@ -7,14 +7,6 @@
 
 
 
-#### Programming Language ⚡
-[![My Skills](https://skillicons.dev/icons?i=spring,java,react,ts,javascript,vue,postgres,mysql,aws&theme=light)](https://skillicons.dev)
-
-
-#### Tools 🚀
-[![My Skills](https://skillicons.dev/icons?i=idea,git,jenkins,docker,postman,vscode&theme=light)](https://skillicons.dev)
-
-
 
 
 
